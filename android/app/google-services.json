@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406079571092",
+    "project_id": "icheck-9b12d",
+    "storage_bucket": "icheck-9b12d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406079571092:android:0e1ff4a5424d34037be081",
+        "android_client_info": {
+          "package_name": "com.example.icheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406079571092-jhrja3nur6o6m3hqqm9o83hgng5bdu36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzIg7NH9sjpM0vymW41EFumORX1EzIks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406079571092-jhrja3nur6o6m3hqqm9o83hgng5bdu36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
